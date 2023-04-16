@@ -1,8 +1,8 @@
 //your JS code here. If required.
 const Student = {
-	name:"abc";
+	name;
 }
 Student.prototype.getKeys = function (){
-	let keys = Object.keys(this);
-	return keys;
+	 return Object.keys(this);
+	
 }
